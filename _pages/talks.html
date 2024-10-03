@@ -1,22 +1,14 @@
----
-layout: archive
 title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
-redirect_from:
-  - /talk
 ---
 
+{% if site.talkmap_link == true %}
 
-{% include base_path %}
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
+{% endif %}
 
-Almost Optimal Locality Sensitive Orderings in Euclidean Space
-
-June 2024 - SoCG
-
-
-On the Shortest Journey Problem in Temporal Graphs
-
-April 2024 - Final Year Thesis Presentation at HKUST
-
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
