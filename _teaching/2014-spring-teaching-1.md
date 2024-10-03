@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "COMP 2011 Programming with C++"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "HKUST"
+date: Fall 2022
+location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Led and organized a weekly lab session for 83 students, responsible for taking attendance, answering questions from students, and providing detailed feedback on assignments.
 
 Heading 1
 ======
