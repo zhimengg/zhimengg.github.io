@@ -16,3 +16,15 @@ When not doing CS/Math, I'm probably exploring the world of watercolor painting.
 
 Feel free to reach me at zhimeng [at] gatech [dot] edu.
 
+**Publications**
+
+Almost Optimal Locality Sensitive Orderings in Euclidean Space - SoCG 2024, submitted to JoCG
+
+**Talks and Presentations**
+
+Almost Optimal Locality Sensitive Orderings in Euclidean Space - June 2024, talk at SoCG
+
+On the Shortest Journey Problem in Temporal Graphs - April 2024, final year thesis presentation at HKUST
+
+
+
