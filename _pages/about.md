@@ -14,4 +14,6 @@ I received my bachelor's degree in Computer Science and Mathematics from Hong Ko
 
 Feel free to reach me at zhimeng [at] gatech [dot] edu.
 
-<sub>I used to go by <strong>Gemma</strong> as an English nickname, chosen because it sounded similar to my Chinese name. But after Google named one of their LLMs <a href="https://ai.google.dev/gemma">Gemma</a>, people started asking if I was an AI - so I decided to retire it.</sub>
+<p style="font-size: 0.8em; color: #666; margin-top: 2em;">
+  I used to go by <strong>Gemma</strong> as an English nickname, chosen because it sounded similar to my Chinese name. But after Google named one of their LLMs <a href="https://ai.google.dev/gemma" target="_blank">Gemma</a>, people started asking if I was an AI - so I decided to retire it.
+</p>
