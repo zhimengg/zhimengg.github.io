@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="font-size: 0.85em;" markdown="1">
 
-Hello! I'm Zhimeng, a PhD student at Georgia Institute of Technology. My research interests lie in theoretical computer science, with a focus on online algorithms and computational geometry.
+Hello! I'm Zhimeng, a PhD student at Georgia Institute of Technology, where I'm fortunate to be advised by [Helen Xu](https://itshelenxu.github.io/). My research interests are broadly in algorithms and data structures. I currently work on cache-friendly and parallel algorithms, and I have previously worked on problems in computational geometry, temporal graph algorithms, and online algorithms.
 
 I received my bachelor's degree in Computer Science and Mathematics from Hong Kong University of Science and Technology, where I was lucky to be advised by [Siu-Wing Cheng](https://www.cse.ust.hk/faculty/scheng/) for my final year thesis. I spent an exchange semester at UIUC in Spring 2023, during which I worked with wonderful mentor [Sariel Har-Peled](https://sarielhp.org/). Prior to these, I interned at Google during the summers of 2021, 2022, and 2023. 
 
@@ -38,6 +38,6 @@ Feel free to reach me at zhimeng [at] gatech [dot] edu.
 <div style="font-size: 0.85em;" markdown="1">
 
 - Siu-Wing Cheng, **Zhimeng Gao**. Approximate Shortest Journeys in Compact Directed Temporal Graphs. \\
-  Submitted to ESA'26.
+  
 
 </div>
